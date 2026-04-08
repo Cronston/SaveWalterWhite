@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1ba11a;
+}
+
+.WalterWhite{
+    text-align: center;
+    color: white;
+    padding: 50px;}
+    h1{
+        font-size: 100px;
+    }
+    h2{
+        font-size: 30px;
+        color: yellow;
+    }
+    .foto{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .foto img{
+        width: 15%;
+        height: auto;
+    }
+    #fam{
+        width: 25%;
+        height: auto;
+    }
+    .text1{
+        color: #fff54f;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .text2{
+        color: #fff54f;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size:20px;
+    }
+    .foto2{
+        display: flex;
+        justify-content: center;
+        gap: 190px;
+    }
+    .foto2 img{
+        width: 23%;
+        height: auto;
+    }
+    .text3{
+        color: white;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .text4{
+        color: white;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .text5{
+        color: white;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .text6{
+        color: white;;
+        text-align: left;
+        font-weight: bold;
+        line-height: 1.5em;
+        margin-top: 1em;
+        margin-right: 50px;
+        margin-bottom: 1em;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .text7{
+        display: flex;                
+        flex-direction: column;       
+        justify-content: space-between; 
+        color: #fff54f;
+        font-size: 40px;
+        font-weight: bold;
+        padding: 30px;
+}
+    .text8{
+        display: flex;                
+        flex-direction: column;       
+        justify-content: space-between; 
+        color: #fff54f;
+        font-size: 40px;
+        font-weight: bold;
+}
+    .foto3{
+        padding: 20px;
+        width: 70%;
+        height: auto;
+        cursor: pointer;
+    }
+    .foto4{
+        padding: 20px;
+        width: 40%;
+        height: auto;
+        cursor: pointer;
+    }
+    .copyright{
+        text-align: center;
+        color: white;
+        font-size: 15px;
+        padding: 20px;
+    }
+
+    
